@@ -1,4 +1,4 @@
-# The ultimate milkshake generator! git #
+# The ultimate milkshake generator! #
 
 This project takes a couple ingredients from a cetrain set of arrays by random and builds you an amazing milkshake
 
