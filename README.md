@@ -1,8 +1,8 @@
-# The ultimate milkshake generator! git#
+# The ultimate milkshake generator! git #
 
 This project takes a couple ingredients from a cetrain set of arrays by random and builds you an amazing milkshake
 
-## Programming Language used##
+## Programming Language used ##
 
 * JavaScript
 
