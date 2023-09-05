@@ -10,4 +10,4 @@ const randIceCream = iceCream[Math.floor(Math.random() * iceCream.length)];
 const randSyrup = syrup[Math.floor(Math.random() * syrup.length)];
 
 //This will print a random milkshake using the ingredients from the Arrays.
-console.log(`I think today i'll gave a ${randIceCream} ice cream with ${randTopping} topping and ${randSyrup} syrup!`);
+console.log(`I think today i'll have a ${randIceCream} ice cream with ${randTopping} topping and ${randSyrup} syrup!`);
