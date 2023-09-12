@@ -4,6 +4,8 @@ This project takes a couple ingredients from a cetrain set of arrays by random a
 
 ## Programming Language used ##
 
+* HTML
+* CSS
 * JavaScript
 
 ### how to use the code? ###
