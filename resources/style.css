@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./imag/milkshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-family: Roboto, gerogia;
+    color: beige;
+    margin-top: 3rem;
+}
+
+.shake {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+p {
+    background-color: aliceblue;
+    font-family: 'Fuzzy Bubbles', georgia;
+    border: 1px solid black;
+    padding: 3rem;
+    border-radius: 2rem;
+    margin: 5rem 5rem;
+ 
+}
+
+button {
+    background-color: bisque;
+    border-radius: 40%;
+    box-shadow: 5px 5px 5px gray;
+    font-family: 'Fuzzy Bubbles', georgia;
+    margin: auto;
+    padding: 2rem;
+    font-size: 1rem;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: antiquewhite;
+    
+    text-decoration: underline;
+}
+
+button:active {
+    margin-top: 3px;
+    box-shadow: none;
+    font-weight: bold;
+    text-decoration: none;
+}
