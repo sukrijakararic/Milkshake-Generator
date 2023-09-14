@@ -12,15 +12,20 @@ body {
 }
 
 h1 {
-    text-align: center;
     font-family: Roboto, gerogia;
     color: #5c8173;
-    margin-top: 3rem;
+    margin: 3rem 5rem 0 5rem;
     background-color: #FAF9F6;
-    margin-left: 40rem;
-    margin-right: 40rem;
     border-radius: 2rem;
     padding: 1rem;
+    border: 1px solid #E9E0D2;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 
 .shake {
@@ -47,7 +52,7 @@ p {
 button {
     background-color: bisque;
     border-radius: 2rem;
-    box-shadow: 5px 5px 5px gray;
+    box-shadow: 5px 5px 5px #2C2D2D;
     font-family: 'Fuzzy Bubbles', georgia;
     margin: auto;
     padding: 2rem;
